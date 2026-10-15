@@ -1,0 +1,7 @@
+[package]
+name = "ex1-hello-cargo"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+hello-cargo = { git = "https://github.com/heiwa4126/hello-cargo" }
