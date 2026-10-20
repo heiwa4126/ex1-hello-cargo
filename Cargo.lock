@@ -12,4 +12,4 @@ dependencies = [
 [[package]]
 name = "hello-cargo"
 version = "0.1.0"
-source = "git+https://github.com/heiwa4126/hello-cargo#c974651cd75d1ce5b018211bc7c072b75ab0e8de"
+source = "git+https://github.com/heiwa4126/hello-cargo#026b85ad6d320e88f00a14993c7aa31e57c2b82e"
