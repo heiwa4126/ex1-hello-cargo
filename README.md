@@ -9,7 +9,7 @@
 $ just
 
 cargo run
-   Compiling ex1-hello-cargo v0.1.0 (/home/user1/orks/rust/ex1-hello-cargo)
+   Compiling ex1-hello-cargo v0.1.0 (/home/user1/works/rust/ex1-hello-cargo)
     Finished `dev` profile [unoptimized + debuginfo] target(s) in 0.34s
      Running `target/debug/ex1-hello-cargo`
 Hello, world!
